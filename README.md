@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shaurya-Sehdev
-- 👀 I’m interested in fintech, entrepreneurship, stocks, good shows, bad girls.
-- 🌱 I’m currently a student in Twelfth standard pursuing engineering.
+- 👀 I’m interested in fintech, entrepreneurship, stocks, good shows, dramatic girls.
+- 🌱 I’m currently a student in Twelfth standard pursuing computer science.
 - 📫 Reach me at shauryasehdev111@gmail.com
 
 <!---

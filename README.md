@@ -6,7 +6,7 @@
 ## 🧠 Skills & Technologies
 
 - **Front-End Development**:  
-  HTML • CSS • JavaScript • React.js • Tailwind CSS • Responsive Design • Accessibility Best Practices
+  HTML • CSS • JavaScript • React.js • Tailwind CSS • Vercel • Responsive Design • Accessibility Practices 
 
 - **Back-End & Tools**:  
   Node.js • Git • GitHub • Version Control • npm • Vite • REST APIs

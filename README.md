@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Shaurya Sehdev
+# Hi, I'm Shaurya Sehdev
 
 🎓 I’m a 3rd-year B.Tech student majoring in **Computer Science Engineering** at **Manipal University, Jaipur**.  
 🚀 Currently based in **Corridor 1**, I’m passionate about building clean, accessible, and engaging digital experiences.
 
-## 🧠 Skills & Technologies
+## Skills & Technologies
 
 - **Front-End Development**:  
   HTML • CSS • JavaScript • React.js • Tailwind CSS • Vercel • Responsive Design • Accessibility Practices 

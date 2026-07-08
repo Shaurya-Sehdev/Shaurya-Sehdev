@@ -27,4 +27,5 @@ I work mainly on computer vision problems such as object detection, tracking, an
 ## Contact
 
 Email: shauryasehdev111@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/shaurya-sehdev/

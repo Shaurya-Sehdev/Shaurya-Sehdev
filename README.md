@@ -1,32 +1,30 @@
 # Hi, I'm Shaurya Sehdev
 
-🎓 I’m a 3rd-year B.Tech student majoring in **Computer Science Engineering** at **Manipal University, Jaipur**.  
-🚀 Currently based in **Corridor 1**, I’m passionate about building clean, accessible, and engaging digital experiences.
+Final-year B.Tech student in Computer Science Engineering at Manipal University, Jaipur, currently working as an ML and Computer Vision Intern at Mantra Softech, Ahmedabad.
 
-## Skills & Technologies
+I work mainly on computer vision problems such as object detection, tracking, and video classification, along with model deployment and optimization across different inference backends.
 
-- **Front-End Development**:  
-  HTML • CSS • JavaScript • React.js • Tailwind CSS • Vercel • Responsive Design • Accessibility Practices 
+## Work
 
-- **Back-End & Tools**:  
-  Node.js • Git • GitHub • Version Control • npm • Vite
+- Object detection and multi-object tracking using YOLOv6, YOLOv8, RF-DETR, ByteTrack, and DeepSORT
+- Video classification for fire and smoke detection using X3D-S, fine-tuned on custom PTZ camera footage
+- Model deployment and optimization using ONNX and TensorRT, including debugging accuracy differences between export formats
+- Incremental model training using Learning Without Forgetting (LWF)
 
-- **Programming Languages**:  
-  C • Python • JavaScript
+## Skills
 
-- **Design & Prototyping**:  
-  Figma • UI/UX Design • Component-Driven Development
+**Machine Learning:** Python, PyTorch, PyTorchVideo, OpenCV, YOLO, ONNX, TensorRT
+**Programming:** Python, C, JavaScript
+**Tools:** Git, GitHub, Linux, Conda, CUDA
+**Web Development:** Node.js, React.js, Tailwind CSS
 
-- **Other Concepts**:  
-  DOM Manipulation • Media Queries • Mobile-First Design • Animations • SEO Fundamentals
+## Projects
 
-## 💡 Interests
+- Fire and Smoke Detection System – real-time detection from PTZ camera footage using a rule-based baseline and an X3D-S video classification model
+- Object Tracking and Counting System – YOLOv6-based tracking pipeline built to fix double-counting near gate lines
+- ONNX/TensorRT Parity Debugger – tool for identifying and fixing accuracy drift between ONNX and TensorRT exports
 
-I'm a keen **front-end developer** with a strong focus on creating elegant and responsive web interfaces. From crafting minimal landing pages to implementing smooth interactive elements, I enjoy transforming design concepts into functional, scalable code. I constantly explore the latest in JavaScript frameworks, performance optimization, and modern web architecture.
+## Contact
 
-## 📫 Let's Connect
-
-Feel free to explore my repositories, check out my recent projects, or reach out for collaboration!
-
-shauryasehdev111@gmail.com
----
+Email: shauryasehdev111@gmail.com
+LinkedIn: https://www.linkedin.com/in/shaurya-sehdev/
